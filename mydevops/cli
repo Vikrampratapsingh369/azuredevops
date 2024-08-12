@@ -1,0 +1,7 @@
+git add apple.txt
+git add .
+git commit -m " create apple file "
+git add .
+git push
+git pull
+
